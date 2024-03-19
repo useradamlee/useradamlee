@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @useradamlee
-- 👀 I’m interested in engineering
+- 👀 I’m interested in engineering and web development
 - 🌱 I’m currently learning 
 - 📫 How to reach me: lee_jun_lei_adam@s2023.ssts.edu.sg
 - 😄 Pronouns: He/Him
