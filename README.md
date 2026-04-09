@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @useradamlee
+### Hey there!
+
 - 👀 I’m interested in engineering and web development
 - 🌱 I’m currently learning backend development through boot.dev
 - 😄 Pronouns: He/Him
