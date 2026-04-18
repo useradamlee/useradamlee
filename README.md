@@ -1,6 +1,6 @@
 ### Hey there!
 
-#### Full time student @SST and Aspiring Backend Engineer
+#### Student @SST and Aspiring Backend Engineer
 
 - 👀 I’m interested in engineering and backend software development
 - 🌱 I’m currently learning backend development via boot.dev
