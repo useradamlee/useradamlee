@@ -1,4 +1,4 @@
-### Hey there!
+### Hey there! I'm Adam
 
 #### Student @SST and Aspiring Backend Engineer
 
